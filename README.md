@@ -1,12 +1,5 @@
 # Transfer Learning using Reinforcement Learning
 RNNコントローラーによる強化学習を用いた転移学習  
-NAS, ENASのアイディアを元に作成  
-(6/30)ENASを元にしたベースラインの実装は完了  
-学習方法の見直し、パラメータのチューニング、結果の出力をこれから詰めていく必要がある   
-
-## 実験結果
-[まとめスプレッドシート](https://docs.google.com/spreadsheets/d/1aGnS7lTBcv7X5-k2M3_kVTiFXxWD67j-F2m7xsQ150I/edit?usp=sharing)
-
 
 ## 参考資料
 ### Paper
